@@ -1,0 +1,10 @@
+[package]
+name = "raytracer"
+version = "0.1.0"
+authors = ["Fredrik Jansson <frjansso@cisco.com>"]
+edition = "2018"
+
+[dependencies]
+minifb = "*"
+rand="*"
+rayon="*"
